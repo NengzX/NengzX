@@ -49,7 +49,7 @@ class NengzX:
 
 ## 🎯 Current Setup
 
-```yaml
+<center>```yaml
 Development:
   Editor: 
     pc: ["VSCODE", "Nano"]
@@ -62,7 +62,7 @@ System:
   os: "Android 14"
   rootstartus: "true"
   environment: ["Kali Linux", "Ubuntu"]
-```
+```</center>
 
 ## 🤝 Connect With Me
 
