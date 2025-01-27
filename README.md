@@ -2,7 +2,7 @@
   
   #### 👋 Welcome to Github NengzX
   
-  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=NengzX&fontSize=80&fontAlign=60&animation=fadeIn)
+  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=NengzX&fontSize=80&fontAlign=50&animation=fadeIn)
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EF7A1&center=true&vCenter=true&random=false&width=500&lines=Security+Researcher;Linux+Enthusiast;Full+Stack+Developer;Open+Source+Contributor;Prompt+Engineer)](https://git.io/typing-svg)
 </div>
