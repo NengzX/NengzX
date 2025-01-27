@@ -1,6 +1,6 @@
 <div align="center">
   
-  #### 👋 Welcome to Github Wanz Xploit
+  #### 👋 Welcome to Github NengzX
   
   ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=NengzX&fontSize=80&fontAlign=60&animation=fadeIn)
 
@@ -10,7 +10,7 @@
 ## 🧑‍💻 About Me
 
 ```python
-class WanzXploit:
+class NengzX:
     def __init__(self):
         self.name = "NengzXploit"
         self.location = "PhnomPenh, Cambodia"
