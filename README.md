@@ -60,7 +60,7 @@ System:
   device: "Infinix Note 40"
   processor: "Helio G99 Ultimate"
   os: "Android 14"
-  rootstartus: "true"
+  rootstatus: "true"
   environment: ["Kali Linux", "Ubuntu"]
 ```
 
